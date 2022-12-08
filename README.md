@@ -8,6 +8,9 @@ Requirments
 ```
 Python=3.7
 torch=1.8.1
+gym==0.23.1
+numpy==1.21.5
+tianshou=0.4.6
 MuJoCo150
 ```
 
