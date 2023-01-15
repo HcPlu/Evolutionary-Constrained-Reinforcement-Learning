@@ -1,6 +1,6 @@
 This is an anonymous repository for a paper under review. Please do not distribute it.
-# Constrained-Evolutionary-Reinforcement-Learning
-The implement of Constrained Evolutionary Reinforcement Learning
+# Evolutionary-Constrained-Reinforcement-Learning
+The implement of Evolutionary Constrained  Reinforcement Learning
 
 
 
